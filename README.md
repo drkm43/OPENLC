@@ -16,8 +16,8 @@ Known bugs
 Disclaimer
 
 - Make sure to have a legal copy of GTA IV EFLC, because you will use GTA IV EFLC assets on this mod, we are not responsible for unauthorized uses of Rockstar Games/Take-Two Interactive content.
-- We will not give support to this version, it has everything from EFLC, ymaps, models, good water, working subway... and its "ready to go", however we admire the work of the community and we make this public under a GNU license so that people stop selling these assets for money and so that the community can fix the few missing bugs.
 - We share this mod for free, its just a lot of public/private versions with scripts/models merged from/for GTA IV/GTA IV EFLC stuff, all the work belongs to Rockstar Games/Take-Two Interactive and the creators of those scripts, we just ported the stuff to GTA 5 on FiveM and modified a bit the structure of some FiveM scripts like PichotM ones.
+- We will not give support to this version, it has everything from EFLC, ymaps, models, good water, working subway... and its "ready to go", however we admire the work of the community and we make this public under a GNU license so that people stop selling these assets for money and so that the community can fix the few missing bugs.
 
 SPECIAL THANKS TO
 
