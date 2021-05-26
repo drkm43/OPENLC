@@ -3,6 +3,7 @@ Open Source mod designed for FiveM using Rockstar Games GTA IV EFLC map assets
 
 How to use
 
+- Manually shutdown loading screen from a client side script in your loading screen resource; https://forum.cfx.re/t/how-to-remove-the-bridge-using-a-new-or-existing-loading-screen-resource/798407
 - Download script and start/ensure it on your server resources .cfg
 - Enjoy.
 
