@@ -1,5 +1,5 @@
 # OPENLC
-Open Source mod designed for FiveM using Rockstar Games GTA IV map assets
+Open Source mod designed for FiveM using Rockstar Games GTA IV EFLC map assets
 
 How to use
 
