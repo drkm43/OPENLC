@@ -13,6 +13,7 @@ Known bugs
 - Theres some bad prop rotation on interiors due to gta iv props naturally, can be fixed easily with CodeWalker.
 - Some chairs and street props need new embed collisions / ytyp static flags. Collisions can be done on 3ds max, flags can be fixed on CodeWalker.
 - Theres some wrong portal flags around the map MLOs, they can be fixed also on CodeWalker.
+- Maybe theres some door holes/exterior buildings prepared for a custom MLO, i dont remember every one of them but we will be happy to fix those holes with original files if you create an issue.
 - Maybe theres some bad/invisible textures related to EFLC props, currently we dont know why.
 
 Disclaimer
